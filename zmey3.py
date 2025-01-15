@@ -1,3 +1,7 @@
+#Змейка в консоли на python
+#Написана летом 2024 на сайте repl.it
+#Протестировал 15.01.2025 на repl.it и залил на github
+
 import random
 import curses
 
